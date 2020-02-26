@@ -7,7 +7,7 @@
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
         <!-- The above 4 meta tags *must* come first in the head; any other head content must come *after* these tags -->
         <!-- Title -->
-        <title>Diskominfo - Kabupaten Serang Coba Edit</title>
+        <title>Diskominfo - Kabupaten Serang</title>
         <!-- Favicon -->
         <link rel="icon" href="img/core-img/logo-kabupaten-serang.jpg">
         <!-- Stylesheet -->
