@@ -1,1 +1,2 @@
-# web-informasi
+# Team Pengembang Website DISKOMINFO
+Semangaattzz :) :)
