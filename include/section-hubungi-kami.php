@@ -19,7 +19,7 @@
                                 </div>
                                 <div class="text">
                                     <p>Alamat :</p>
-                                    <h6>Taman K3 Ciceri, Jl. Jend. Sudirman No.25, Banten 42118</h6>
+                                    <h6></h6>
                                 </div>
                             </div>
 
