@@ -10,6 +10,7 @@
             <li><a href="#">Profil</a>
             <ul class="dropdown">
                 <li><a href="visi-misi.php">Visi Misi</a></li>
+                <li><a href="latar-belakang.php">Latar Belakang</a></li>
                 <li><a href="unit-kerja.php">Unit Kerja</a></li>
                 <li><a href="struktur-organisasi.php">Struktur Organisasi</a></li>
                 <li><a href="profil-pejabat-struktural.php">Profil Pejabat Struktural</a></li>
